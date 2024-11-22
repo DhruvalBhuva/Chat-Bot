@@ -1,0 +1,12 @@
+Diffrent platform can be used to develop chatbots
+- Dialogflow by Google
+- Wit By Facebook
+- Lex By Amazon
+- Watson by IBM
+
+
+Dialogfolw dashboad link: https://dialogflow.cloud.google.com/#/agent/currency-converter-tiwk/intents
+
+To communicate local port (which is used as backend end point) and chatbot (Which is on google server) ngrok is used.
+
+Currency Converter API: https://www.currencyconverterapi.com/docs
